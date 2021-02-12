@@ -14,8 +14,8 @@ public class ConversaoTipoPrimitivo {
 		
 		int c = 340; /*
 					 * Máximo valor recebido pelo byte 227
-					 * Caso este valor for maior do que o (byte)
-					 * suporte, automaticamente o Java realiza conversão
+					 * Caso este valor for maior do que o (byte) suporte,
+					 * automaticamente o Java realiza conversão
 					 */
 		byte d = (byte) c; // Explícita (CAST)
 		System.out.println(d);
