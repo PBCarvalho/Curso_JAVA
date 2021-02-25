@@ -7,7 +7,7 @@ public class DesafioAritimeticos {
 		double numA = Math.pow(6 * (3 + 2), 2);
 		double denA = 3 * 2;
 		double divA = numA / denA;
-						
+								
 		double numB = (1 - 5) * (2 - 7);
 		double denB = 2;
 		double divB = Math.pow(numB / denB, 2);
@@ -19,7 +19,6 @@ public class DesafioAritimeticos {
 		double resultado = subA / subB;
 		
 		System.out.println("O resultado é " + resultado + ".");
-				
 	}
 
 }
