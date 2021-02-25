@@ -31,8 +31,7 @@ public class Inferencia {
 		System.out.println(d); // foi usada
 		
 		var e = 123.45;
-		System.out.println(e);
-		
+		System.out.println(e);		
 	}
 
 }
