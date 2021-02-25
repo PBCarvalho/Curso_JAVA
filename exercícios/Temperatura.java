@@ -12,8 +12,7 @@ public class Temperatura {
 		
 		double C = (F - AJUSTE) * FATOR;
 		
-		System.out.println(F + "ºF" + " = " + C + "ºC");
-				
+		System.out.println(F + "ºF" + " = " + C + "ºC");				
 	}
 
 }
