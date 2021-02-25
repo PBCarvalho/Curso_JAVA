@@ -24,7 +24,7 @@ public class Aritimeticos {
 		System.out.println(a / (double) b);
 		System.out.println(a / (float) b);
 		
-		System.out.println(8 % 3);
+		System.out.println(8 % 3); // % operador módulo (resto da divisão)
 		System.out.println(a % b);
 		
 		System.out.println(x + y - a * b);
