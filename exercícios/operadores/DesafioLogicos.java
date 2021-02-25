@@ -19,7 +19,7 @@ public class DesafioLogicos {
 		
 		System.out.println("Comprou TV50\"? " + comprouTV50);
 		System.out.println("Comprou TV32\"? " + comprouTV32);
-		System.out.println("Comprou Sorvete\"? " + comprouSorvete);
-		System.out.println("Mais saudável\"? " + maisSaudavel);		
+		System.out.println("Comprou Sorvete? " + comprouSorvete);
+		System.out.println("Mais saudável? " + maisSaudavel);		
 	}
 }
