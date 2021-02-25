@@ -27,8 +27,7 @@ public class NotacaoPonto {
 		 * Exemplo:
 		 */
 		int a = 3;
-		System.out.println(a);
-		
+		System.out.println(a);		
 	}
 
 }
