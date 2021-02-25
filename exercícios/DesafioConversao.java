@@ -6,12 +6,10 @@ public class DesafioConversao {
 	
 	public static void main(String[] args) {
 		
-		/*
-		 * Criar um mecanismo de Scanner, pegando 3 String usando o Nextline, ultimos 3 salários
-		 * Possibilidade de separar . ou ,
-		 * Somar os 3 salários e mostrar a média.
-		 */
-		
+		// Criar um mecanismo de Scanner, pegando 3 String usando o Nextline, ultimos 3 salários
+		// Possibilidade de separar . ou ,
+		// Somar os 3 salários e mostrar a média.
+				
 		Scanner entrada = new Scanner (System.in);
 		
 		System.out.print("Informe o primeiro Salário: ");
@@ -33,7 +31,6 @@ public class DesafioConversao {
 		System.out.println("A média é: " + soma / 3);
 		
 		entrada.close();
-		
 	}
 
 }
