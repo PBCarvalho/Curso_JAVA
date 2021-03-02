@@ -8,7 +8,7 @@ public class If {
 		
 		Scanner entrada = new Scanner (System.in);
 		
-		System.out.print("Informe a médio: ");
+		System.out.print("Informe a média: ");
 		double media = entrada.nextDouble();
 		
 		if (media <10 && media >= 7.0) {
@@ -23,7 +23,6 @@ public class If {
 		if (media < 4.5 && media >= 0) {
 			System.out.println("Reprovador!");
 		}
-			
 		entrada.close();
 	}
 
