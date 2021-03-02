@@ -31,5 +31,4 @@ public class DesafioDiaSemana {
 		}				
 		entrada.close();
 	}
-
 }
