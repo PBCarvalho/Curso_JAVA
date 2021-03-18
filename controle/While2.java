@@ -11,10 +11,11 @@ public class While2 {
 		String algo = "";
 		
 		while(!algo.equalsIgnoreCase("sair")) {
-			System.out.println("Você falou: ");
+			System.out.println("Escreva (sair), caso queira.");
+			System.out.print("Você falou: ");
 			algo = entrada.nextLine();
 		}		
-		
+	
 		entrada.close();		
 	}
 }
