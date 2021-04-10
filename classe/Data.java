@@ -1,7 +1,6 @@
 package classe;
 
 public class Data {
-	
 	int dia;
 	int mes;
 	int ano;
@@ -16,11 +15,9 @@ public class Data {
 		dia = diaInicial;
 		mes = mesInicial;
 		ano = anoInicial;
-		
 	}
 	
 	String obterDataFormatada() {
 		return String.format("%d/%d/%d", dia, mes, ano);
-			
 	}
 }
