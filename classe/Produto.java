@@ -7,9 +7,8 @@ public class Produto {
 	double desconto;
 	
 	Produto() {
-		
 	}
-
+	
 	Produto(String nomeInicial, double precoInicial, double descontoInicial) {
 		nome = nomeInicial;
 		preco = precoInicial;
