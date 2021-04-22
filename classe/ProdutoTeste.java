@@ -21,6 +21,6 @@ public class ProdutoTeste {
 		double precoFinal2 = p2.precoComDesconto();
 		double mediaCarrinho = ((precoFinal1 + precoFinal2) / 2);
 		
-		System.out.printf("Média do carrinho = RS%.2f.", mediaCarrinho);
+		System.out.printf("Média do carrinho = R$%.2f.", mediaCarrinho);
 	}
 }
