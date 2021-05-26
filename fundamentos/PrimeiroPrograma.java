@@ -8,5 +8,4 @@ public class PrimeiroPrograma {
 		System.out.println("Primeiro Programa Parte #01!");
 		System.out.println("Primeiro Programa Parte #02!");
 	}
-
 }
